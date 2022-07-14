@@ -30,7 +30,7 @@ header  > p {
     color: white;
     text-align: center;
     font-size: 1.2em;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
 
 }
 header > h1 {
@@ -38,7 +38,7 @@ header > h1 {
     text-align: center;
     color: white;
     font-size: 2em;
-    font-family: 'Bebas', sans-serif;
+    font-family: 'Bebas', Arial, Helvetica, sans-serif;
     margin-top: 0px;
 }
 
@@ -60,7 +60,7 @@ header > h1 {
     font: bolder 1.2em sans-serif;
     transition-duration: 1s;
     margin-right: 20px;
-    font-family: 'Bebas', sans-serif;
+    font-family: 'Bebas', Arial, Helvetica, sans-serif;
 
 }
 
@@ -88,13 +88,13 @@ main  img {
 
 article > h1 {
     text-align: left;
-    font-family: 'idroid';
+    font-family: 'idroid', Arial, Helvetica, sans-serif;
     color: #1A5C38;
 }
 
 article> h2 {
     text-align: left;
-    font-family: 'idroid';
+    font-family: 'idroid', Arial, Helvetica, sans-serif;
     font-size: 1.2em;
     color: #1d6b40;
     background-image: linear-gradient(to right,#80dfa9, transparent);
@@ -104,7 +104,7 @@ article> h2 {
 article > p {
     text-indent: 30px;
     text-align: justify;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 1.2em;
     margin: 15px 0px;
     line-height: 2em;
@@ -115,7 +115,7 @@ aside {
     border-radius: 15px;
     text-indent: 20px;
     text-align: justify;
-    font-family: 'Roboto', sans-serif;  
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;  
 }
 
 
@@ -139,7 +139,7 @@ border-radius: 15px 15px 0px 0px;
     padding: 10px;
     text-indent: 30px;
     text-align: justify;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 1.2em;
 }
 
@@ -153,7 +153,7 @@ footer {
 }
 
 footer > p {
-    font: normal 1em 'Roboto', sans-serif;
+    font: normal 1em 'Roboto', Arial, Helvetica, sans-serif;
     padding: 5px;
 }
 
