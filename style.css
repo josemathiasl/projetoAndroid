@@ -48,8 +48,7 @@ header > h1 {
     padding:10px;
     margin: auto;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.363);
-    
-
+    min-width: 320px; 
 }
 
 #menuTop > a {
@@ -87,9 +86,11 @@ main  img {
 }
 
 article > h1 {
-    text-align: left;
+    text-align: center;
     font-family: 'idroid', Arial, Helvetica, sans-serif;
     color: #1A5C38;
+    margin: 0px;
+    
 }
 
 article> h2 {
@@ -187,6 +188,7 @@ main img.pequena {
 }
 
 aside ul {
+    min-width: 320px;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
