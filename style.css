@@ -183,6 +183,7 @@ main img.pequena {
 }
 
 aside ul {
+    font-size: 1vw;
     padding: 0px;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
