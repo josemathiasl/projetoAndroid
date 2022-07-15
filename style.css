@@ -49,9 +49,11 @@ header > h1 {
     margin: auto;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.363);
     min-width: 320px; 
+    font-size: 1em;
 }
 
 #menuTop > a {
+
     padding: 10px;
     color: white;
     text-decoration: none;
