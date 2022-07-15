@@ -183,7 +183,8 @@ main img.pequena {
 }
 
 aside ul {
-    font-size: 0.9em;
+    min-width: 320px;
+    max-width: 700px;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
@@ -192,4 +193,10 @@ aside ul {
 
 aside abbr {
     text-decoration: underline;
+}
+
+aside li {
+    font-size: 1em;
+    width: 270px;
+
 }
