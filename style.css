@@ -72,7 +72,7 @@ header > h1 {
 main {
     background-color: white;
     margin: auto;
-    padding: 15px;
+    padding: 10px;
     margin: 1px auto;
     min-width: 320px;
     max-width: 1000px;
@@ -87,7 +87,7 @@ main  img {
 }
 
 article > h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: center;
     font-family: 'idroid', Arial, Helvetica, sans-serif;
     color: #1A5C38;
