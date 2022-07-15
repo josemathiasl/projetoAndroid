@@ -86,6 +86,7 @@ main  img {
 }
 
 article > h1 {
+    font-size: 2em;
     text-align: center;
     font-family: 'idroid', Arial, Helvetica, sans-serif;
     color: #1A5C38;
