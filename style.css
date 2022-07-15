@@ -183,6 +183,7 @@ main img.pequena {
 }
 
 aside ul {
+    padding: 0px;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
@@ -196,6 +197,6 @@ aside abbr {
 aside li {
     text-align: left;
     margin: auto;
-    font-size: 0.8em;
+    font-size: 1em;
     font-weight: normal;
 }
