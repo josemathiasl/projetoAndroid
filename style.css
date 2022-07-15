@@ -183,8 +183,6 @@ main img.pequena {
 }
 
 aside ul {
-    min-width: 320px;
-    max-width: 700px;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
