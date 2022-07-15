@@ -115,8 +115,10 @@ aside {
     background-color: #8aeeb663;
     border-radius: 15px;
     text-indent: 20px;
-    text-align: justify;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;  
+}
+aside p {
+    text-align: justify;
 }
 
 
@@ -180,9 +182,12 @@ main img.pequena {
 }
 
 aside ul {
-    min-width: 320px;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
+
 }
 
+aside abbr {
+    text-decoration: underline;
+}
